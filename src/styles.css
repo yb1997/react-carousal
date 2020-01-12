@@ -1,0 +1,17 @@
+html,
+body {
+  height: 100%;
+}
+
+body {
+  min-height: 100%;
+}
+
+.App,
+#root {
+  position: relative;
+  font-family: sans-serif;
+  text-align: center;
+  overflow: hidden;
+  height: 100%;
+}
